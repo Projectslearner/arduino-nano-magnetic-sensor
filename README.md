@@ -8,9 +8,8 @@ The Magnetic Sensor project demonstrates how to interface a magnetic sensor with
 
 1. **Arduino Nano**
 2. **Magnetic Sensor Module**
-3. **LED**
-4. **Resistors**
-5. **Jumper Wires**
+3. **Resistors**
+4. **Jumper Wires**
 
 #### Block Diagram
 
@@ -19,7 +18,6 @@ The Magnetic Sensor project demonstrates how to interface a magnetic sensor with
 
 1. **Connect Magnetic Sensor to Arduino Nano:**
    - Connect the digital pin of the magnetic sensor module to a digital pin (e.g., pin 2) on the Arduino Nano.
-   - Connect the LED to a suitable output pin (e.g., pin 13) on the Arduino Nano.
    - Ensure proper voltage levels and grounding for stable operation of the module.
 
 #### Instructions
